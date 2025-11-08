@@ -1,0 +1,12 @@
+{
+    "_base": "https://raw.githubusercontent.com/tuxx/strudel/master",
+    "bass": [
+        "bass/bass01.wav",
+        "bass/bass02.wav",
+        "bass/bass03.wav",
+        "bass/bass04.wav",
+        "bass/bass05.wav",
+        "bass/bass06.wav",
+        "bass/bass07.wav"
+    ]
+}
