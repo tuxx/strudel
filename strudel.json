@@ -8,5 +8,9 @@
         "bass/bass05.wav",
         "bass/bass06.wav",
         "bass/bass07.wav"
+    ],
+    "guitar": [
+        "guitar/riff01.mp3",
+        "guitar/riff02.mp3"
     ]
 }
