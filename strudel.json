@@ -16,12 +16,15 @@
         "guitar/riff04.wav"
     ],
     "amen": [
-        "amen/001.mp3",
-        "amen/002.mp3",
-        "amen/003.mp3",
-        "amen/004.mp3",
-        "amen/005.mp3",
-        "amen/006.mp3",
-        "amen/007.mp3"
+        "amen/001.wav",
+        "amen/002.wav",
+        "amen/003.wav",
+        "amen/004.wav",
+        "amen/005.wav",
+        "amen/006.wav",
+        "amen/007.wav"
+    ],
+    "jungle": [
+        "jungle/001.wav"
     ]
 }
