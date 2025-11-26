@@ -14,5 +14,14 @@
         "guitar/riff02.mp3",
         "guitar/riff03.wav",
         "guitar/riff04.wav"
+    ],
+    "amen": [
+        "amen/001.mp3",
+        "amen/002.mp3",
+        "amen/003.mp3",
+        "amen/004.mp3",
+        "amen/005.mp3",
+        "amen/006.mp3",
+        "amen/007.mp3"
     ]
 }
